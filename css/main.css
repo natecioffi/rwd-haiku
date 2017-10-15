@@ -1,0 +1,60 @@
+/*	0123456789abcdef	*/
+/*	black-grayscale-white	*/
+/*	Shades to tints	*/
+
+
+
+/* sections */
+body{
+	margin: 0;
+	font-family: arial, sans-serif;
+	background-color: #eee;
+	}
+figure{
+	font-size: 1.375em;
+	margin: 10% 30%;
+	}
+figcaption{
+	font-size: 50%;
+	text-align: right;
+	}
+
+/* classes */
+.center{
+margin-right: 70%;
+	}
+.framework{	
+	width: 90%;
+	max-width: 60em;
+	margin: 0 auto;
+	}
+.bg-fff{
+	background-color: #fff;
+	}
+.fg-f00{
+	color: #f00;
+	}
+/* id */
+#bold{
+	padding: 5% 0;
+	}
+/* typography */
+p{
+	
+	}
+/* layout changes */
+@media (min-width: 48em;){
+	/* 
+#bold{
+		overflow: hidden;
+		}
+	 #bold .col {
+		float: left;
+		Width: 50%;
+		background: #111;
+		}
+	figure{
+		clear: both;
+		}
+	}
+ */
